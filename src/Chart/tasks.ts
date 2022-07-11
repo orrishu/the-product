@@ -19,7 +19,7 @@ let tasks: Task[] = [
       type:'task',
       progress: 100,
       isDisabled: true,
-      styles: { progressColor: '#ffbb54', progressSelectedColor: '#ff9e0d' },
+      styles: { progressColor: '#ffd54f', progressSelectedColor: '#ff9e0d' },
     },
     {
       start: new Date(2022, 1, 1, 11, 0, 0),
